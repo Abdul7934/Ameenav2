@@ -1,0 +1,6 @@
+{
+  "name": "Copy of py of Ameena AI",
+  "description": "A personalized AI study companion to help you learn from text, YouTube videos, and generate notes, explanations, and quizzes using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
